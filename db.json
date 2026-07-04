@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "عبد الله محمد",
+      "email": "demo@muhasabaa.com",
+      "password": "password123",
+      "gender": 1
+    },
+    {
+      "name": "زياد عبد الله",
+      "email": "ziad@muhasabaa.com",
+      "password": "password123",
+      "gender": 1
+    },
+    {
+      "name": "أحمد علي",
+      "email": "ahmed@muhasabaa.com",
+      "password": "password123",
+      "gender": 1
+    }
+  ],
+  "dailyLogs": {},
+  "prayers": {}
+}

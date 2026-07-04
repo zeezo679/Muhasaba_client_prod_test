@@ -1,0 +1,6 @@
+{
+  "name": "Muhasabaa - الجانب الروحي",
+  "description": "The spiritual section of Muhasabaa habit tracking app. Tracks daily Dhikr and Quran reading with an elegant dark gold Arabic interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
